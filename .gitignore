@@ -3,3 +3,4 @@
 .env
 chunks_output.txt
 chunk_embeddings.npy
+/myenv
