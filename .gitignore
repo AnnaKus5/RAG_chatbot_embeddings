@@ -1,0 +1,5 @@
+/dataToSplit
+/cleanDataToSplit
+.env
+chunks_output.txt
+chunk_embeddings.npy
